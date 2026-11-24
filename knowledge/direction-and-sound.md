@@ -6,3 +6,5 @@ Design in layers as needed: environment/room tone, physical action/foley, speech
 ## Preflight
 Check scene purpose, readable action, contact/physics, camera trajectory, initial and final state, visual continuity, feasible speech, and reference fidelity. Do not include quality boosters or generation settings in copy-ready prompts. Recommendations follow separately; user decides. No automatic editing or generation.
 Adapted ideas: Serge Shima Visual Skills (CC BY 4.0 https://creativecommons.org/licenses/by/4.0/), camera-lighting-vocabulary and patterns-and-genres; Video Director Skill (MIT), taste; SkillCDN (MIT), story. Source audio claims are version-sensitive; current official model guidance takes precedence.
+## Standalone audio prompts
+For sound-only requests deliver one copy-ready English block describing audible sources, sequence, spatial perspective, performance and acoustic texture. Keep audio model, duration, sample rate, file format and other UI settings separate and optional. Do not assume a particular audio tool is available. Preserve requested spoken language.
