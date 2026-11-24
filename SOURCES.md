@@ -15,3 +15,6 @@
 | [Scenario](https://github.com/scenario-labs/skills) | README | Continuity and quality modules to inspect; MIT badge. |
 | [AI Video Kit](https://github.com/cclank/lanshu-awesome-ai-video-kit) | README | Model-specific examples and provenance; MIT badge; example rights separate. |
 Next: inspect full selected skills, reference files and license texts; record immutable revisions; validate model controls against current Higgsfield documentation; perform text-only conflict checks before any paid generation. Do not label recommendations empirically tested without evidence.
+
+## Current audit status (2026-11-24)
+The initial table above is historical. See audit/2026-11-24.md, audit/model-pass-2026-11-24.md and audit/creative-pass-2026-11-24.md for later inspections and blob identifiers. Ten root license files were retrieved (two CC BY 4.0 and eight MIT); Advibly and YouMind recommender license texts remain unconfirmed. No blanket project license selected. No upstream files vendored. Source coverage remains selective; root licenses do not establish rights to third-party assets. The text fixtures are original synthetic examples.
